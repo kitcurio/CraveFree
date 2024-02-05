@@ -54,7 +54,8 @@ struct ContentView: View {
             Color(Color.background)
                 .ignoresSafeArea()
             VStack{
-                
+                Spacer()
+                    .frame(height: 50)
                 HStack {
                     Text(Date.now, format: .dateTime.weekday(.wide).day().month())
                         .frame(minWidth: 300, alignment: .leading)
@@ -130,22 +131,21 @@ struct ContentView: View {
                 }
                 .frame(minWidth: 300, minHeight: 300)
 
-                
-                Spacer()
-                    .frame(height: 75)
+//                
+//                Spacer()
+//                    .frame(height: 75)
                 
                 HStack {
                     Spacer()
                   
                     Text(antiMantra)
-                        .frame(width: 300, height: 100)
+                        .frame(width: 300, height: 150)
                         .multilineTextAlignment(.center)
                     .font(.custom("Asap-Regular", size: 35))
                     Spacer()
                     
                 }
                 Spacer()
-                    .frame(maxHeight: 130)
                 
                 // RESET BUTTON
                 
@@ -179,6 +179,9 @@ struct ContentView: View {
                 }
             }
             .frame(alignment: .center)
+            
+            Spacer()
+                .frame(minHeight: 100)
         }
     }
 }
