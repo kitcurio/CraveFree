@@ -25,16 +25,20 @@ preferences and motivational styles.
 * Current date display
 * Button to reset the counter at any time
 
-### Dark & Light Mode
+#### Dark & Light Mode
 <p align="center">
-     <img alt="Screenshot of CraveFree in dark mode" src="CFDark.PNG" width="45%">
+     <img alt="Screenshot of CraveFree in dark mode." src="CFDark.PNG" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-     <img alt="Screenshot of CraveFree in light mode" src="CFlight.PNG" width="45%">
+     <img alt="Screenshot of CraveFree in light mode." src="CFlight.PNG" width="45%">
 </p>
 
----
+#### Widget
 
-### Our Team
+<div align="left"> 
+    <img alt="Screenshot of the CraveFree widget and app on the home screen." src="CFhomewidget.PNG" width="585" height="435">
+</div>
+
+## Our Team
 
 CraveFree is the result of collaborative efforts from a team where I served as our lead developer, Jackelyn Toral as our project manager, and Adriana Silva as our lead designer. 
 
@@ -79,8 +83,9 @@ Even though I was mainly focused on developing the code, this project actually t
 the scope of a project, and about how to approach and solve problems in general. The process of refining the ideas we came up with and turning them into a solution that we could execute well 
 was honestly incredibly challenging, but it was also incredibly rewarding in the end.
 
-#### I ended this challenge with a lot more confidence in my abilities to design a user-friendly app, *problem-solve*,  *gather & implement feedback from users*, *set priorities,*
-and *break a project down into manageable tasks.*
+### I also uploaded our project to TestFlight so we could get feedback from our users, and this was a major achievement for myself and my whole team.
+
+#### I ended this challenge with a lot more confidence in my abilities to design a user-friendly app, *problem-solve*,  *gather & implement feedback from users*, *set priorities,* and *break a project down into manageable tasks.*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,6 +107,18 @@ and *break a project down into manageable tasks.*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Demo
+## Demos
+
+Changing the tone of the mantras:
+
+https://github.com/kitcurio/CraveFree/assets/80923104/742cc25c-8fd1-40be-9a8e-e9679d0167da
+
+
+Widget updating on home screen:
+
+https://github.com/kitcurio/CraveFree/assets/80923104/add14a64-fcb2-4a59-b51f-2f93c3a3a529
+
+
+
 
 
