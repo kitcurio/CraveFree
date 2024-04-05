@@ -3,9 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="">
     <img src="appstore.png" alt="CraveFree logo" width="175" height="175">
-  </a>
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -14,13 +12,26 @@
 CraveFree is a project designed to support individuals struggling with nicotine addiction by providing a simple yet effective tool to track cravings and offer encouragement on their journey.
 
 With the tap of a button, users can log every time they have a craving. A counter that can be displayed prominently on their home screen via a widget serves as a visual reminder of their progress
-with every resisted craving. There is also a collection of "mantras" that rotate with each button press, providing users with motivational messages to stay strong during challenging moments.
+with every resisted craving. With each button press, a randomly chosen "mantra" will be displayed to provide users with motivational messages to stay strong during challenging moments.
 Users can customize the tone of the mantras - whether they prefer gentle encouragement or a more assertive approach, CraveFree has three different tone options to suit individual 
 preferences and motivational styles.
 
 ## Features
 
-placeholder!!!!!! list, probs add screenies here too
+* A button users can press to log cravings & satisfying haptic feedback with every tap
+* Visual representation of progress with a counter in the app and on the home screen via a widget
+* Motivational mantras with a customizable tone, generated randomly from a collection
+* Three different options for tone
+* Current date display
+* Button to reset the counter at any time
+
+### Dark & Light Mode
+<p align="center">
+     <img alt="Screenshot of CraveFree in dark mode" src="CFDark.PNG" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+     <img alt="Screenshot of CraveFree in light mode" src="CFlight.PNG" width="45%">
+</p>
+
 ---
 
 ### Our Team
@@ -56,7 +67,7 @@ I learned about various accessibility features, such as accessibility labels and
 * Other things I learned about
   * Adding the date (this was surprisingly challenging)
   * Making different kinds of buttons, alerts, and pickers
-  * Creating custom gradients
+  * Creating custom gradients and adding custom fonts
 
 ---
 
@@ -84,6 +95,10 @@ and *break a project down into manageable tasks.*
 * Making the counter reset daily
   
 * Adding a log to keep track of cravings over time
+  
+* Adding more mantras to the collection of mantras and refining the function use to generate them
+  * Making sure the same mantra doesn't appear multiple times in a row
+  * Using AI to generate them
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
