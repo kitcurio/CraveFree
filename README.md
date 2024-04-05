@@ -83,7 +83,7 @@ Even though I was mainly focused on developing the code, this project actually t
 the scope of a project, and about how to approach and solve problems in general. The process of refining the ideas we came up with and turning them into a solution that we could execute well 
 was honestly incredibly challenging, but it was also incredibly rewarding in the end.
 
-### I also uploaded our project to TestFlight so we could get feedback from our users, and this was a major achievement for myself and my whole team.
+#### I also uploaded our project to TestFlight so we could get feedback from our users, and this was a major achievement for myself and my whole team.
 
 #### I ended this challenge with a lot more confidence in my abilities to design a user-friendly app, *problem-solve*,  *gather & implement feedback from users*, *set priorities,* and *break a project down into manageable tasks.*
 
