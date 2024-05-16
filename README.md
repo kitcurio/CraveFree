@@ -60,7 +60,7 @@ well and felt good to use.
 My biggest challenge for this project was learning how to add a widget extension and making it update to show the tracked cravings after the button was pressed in the app. Working with widgets also taught me a lot about how to share data between views.
 
 * ***Layouts with SwiftUI:***
-This project was also a great opportunity for me to refine my ability to create a layout using SwiftUI. Translating the design my team came up with accurately into code was challenging, especially as I ran into layout constraints, but it also really fun to figure out how to work around those, and I learned a lot!
+This project was also a great opportunity for me to refine my ability to create a layout using SwiftUI. Translating the design my team came up with accurately into code was challenging, especially as I ran into layout constraints, but it was also really fun to figure out how to work around those, and I learned a lot!
 
 * ***Haptics:***
 Something I was really excited to learn how to do was adding haptic feedback to our app, and this was my introduction to how haptics work in Swift. 
